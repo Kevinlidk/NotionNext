@@ -6,7 +6,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://blog2.kevinlidk.cn' },
-    { title: '但行好事,莫问前程', url: '' }
+    { title: '但行好事,莫问前程' }
   ],
 
   // 英雄区(首页顶部大卡)
